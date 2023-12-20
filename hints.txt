@@ -1,0 +1,16 @@
+It's been archived here:https://github.com/Aneurysm9/vm_challenge
+
+Note, in the past when the challenge domain was live you would submit the "codes" you discovered for verification. Now, the above repo includes MD5 hashes of the codes associated with the archived challenge "input" (the binary file).
+
+TL;DR:
+
+    Download the challenge binary and architecture specification from the above linked repo
+
+    Collect codes by progressing through the challenge
+
+    Verify your codes by comparing their MD5 hash with the set of hashes in the above repo
+
+I know this sounds a little complicated, but it's really cool and definitely worth doing, even more so if you enjoyed the IntCode puzzles!
+
+I'm still working on some of the later codes, but I have an explanation of how I acquired each code thus far in my repo's README if anyone is interested. Obviously it contains spoilers!
+https://github.com/tmbarker/synacor-challenge
